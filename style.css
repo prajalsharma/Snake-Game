@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    box-shadow: black 20px 10px 50px;
+}
+
+#restartBtn {
+    transform: scale(1.2);
+    margin-bottom: 15px;
+}
